@@ -91,3 +91,9 @@ Ladda ner filen [här][1] då vi inte har den själva
 ### Länk till annan fil
 
 [Ny sida om mig](om_mig.md)
+
+## Länk med bild
+
+[![Steam logo](img/logo_steam.svg)](https://www.google.com)
+
+[![Steam logo](img/logo_steam.svg)][1]
