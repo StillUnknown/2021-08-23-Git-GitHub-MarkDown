@@ -64,7 +64,7 @@ hej *__Tjock och kursiv text__*
    - Mjölk
    - Ägg
 3. Elgiganten
-   - Exra monitor
+   - Extra monitor
 
 ## Länkar
 
@@ -88,3 +88,6 @@ Ladda ner filen [här][1] då vi inte har den själva
 
 ![Steam logo](img/logo_steam.svg)
 
+### Länk till annan fil
+
+[Ny sida om mig](om_mig.md)
