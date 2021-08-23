@@ -29,3 +29,39 @@ hej *__Tjock och kursiv text__*
 
 ~~understruken text~~  
 `~`  kallas tilde  
+
+## Listor
+
+### Oordnad lista
+
+- Stockholm
+- Umeå
+- Göteborg
+- 
++ Malmö
++ Uppsala
+  
+* Malmö
+
+### Ordnad lista
+
+1. Marvel
+2. DC
+3. Något
+   Mer
+   kan
+   jag
+   skriva
+   här
+4. Bamse
+
+### Blandad lista
+
+1. Apoteket
+   - Alvedon
+   - Ipren
+2. Ica
+   - Mjölk
+   - Ägg
+3. Elgiganten
+   - Exra monitor
