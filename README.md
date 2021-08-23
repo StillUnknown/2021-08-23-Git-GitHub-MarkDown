@@ -65,3 +65,12 @@ hej *__Tjock och kursiv text__*
    - Ägg
 3. Elgiganten
    - Exra monitor
+
+## Länkar
+
+[Länk till google.com](https://www.google.com)
+
+Ladda ner filen [här][1] då vi inte har den själva
+
+[1]: https://google.com
+
