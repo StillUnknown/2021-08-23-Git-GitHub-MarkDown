@@ -13,19 +13,19 @@ Dagens lektion är i storleken brödtext
 
 ## Emfas
 
-**Tjock text med stjärna**
+**Tjock text med stjärna**  
 __Tjock text med underscore__
 
-*Kursiv text*
+*Kursiv text*  
 _Kursiv text_
 
-_**Tjock och kursiv text**_
-__*Tjock och kursiv text*__
+_**Tjock och kursiv text**_  
+__*Tjock och kursiv text*__  
 *__Tjock och kursiv text__*
 
-hej _**Tjock och kursiv text**_
-hej __*Tjock och kursiv text*__
+hej _**Tjock och kursiv text**_  
+hej __*Tjock och kursiv text*__  
 hej *__Tjock och kursiv text__*
 
-~~understruken text~~
-`~`  kallas tilde
+~~understruken text~~  
+`~`  kallas tilde  
