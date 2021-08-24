@@ -97,3 +97,7 @@ Ladda ner filen [här][1] då vi inte har den själva
 [![Steam logo](img/logo_steam.svg)](https://www.google.com)
 
 [![Steam logo](img/logo_steam.svg)][1]
+
+
+
+[2021-08-24 Lektion](2021-08-24.md)
